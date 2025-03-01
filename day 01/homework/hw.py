@@ -1,0 +1,7 @@
+name= input("what is your name: ")
+surname = input("what is your surname: ")
+print("so you are: "+ surname + name)
+age = input("what is your age: ")
+print("your age is: " + age)
+school = ("where do you study: ")
+print("this is where you study: " + school)
